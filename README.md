@@ -36,5 +36,6 @@ Hey there! I'm **Syeda Khadija Hassan**, a second-semester Software Engineering 
 - 🌐 **GitHub:** [github.com/hassankhadija06](https://github.com/hassankhadija06)
 
 ---
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassankhadija06&show_icons=true&theme=default)
 
 > *"Striving for excellence in every line of code I write."* ✨
