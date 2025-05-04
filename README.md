@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Khadija
+# 👋 Hey there, I'm Syeda Khadija Hassan!
 
-🎓 I'm a 2nd semester Computer Science student with a strong interest in C++ and Object-Oriented Programming (OOP).  
+🎓 I'm a 2nd semester Software Engineering student with a strong interest in C++ and Object-Oriented Programming (OOP).  
 💻 I build hands-on lab projects that demonstrate real-world programming logic, problem solving, and user interaction.  
 📚 My work includes projects on classes, constructors, memory management, validation, and utility simulations.
 
