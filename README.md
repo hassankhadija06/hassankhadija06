@@ -5,7 +5,7 @@ Hey there! I'm **Syeda Khadija Hassan**, a second-semester Software Engineering 
 ---
 
 ### 🚀 About Me
-- 🎓 Currently studying BSSE – 2nd Semester  
+- 🎓 Currently studying BSSE – 3rd Semester  
 - 💡 Exploring C++, Data Structures, and Software Design Principles  
 - ⚡ Known for building beginner-friendly, interactive programs  
 - 🌱 Actively learning HTML, CSS & Git for web and version control
