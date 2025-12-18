@@ -1,6 +1,6 @@
 # 👩‍💻 Syeda Khadija | SE Student
 
-Hey there! I'm **Syeda Khadija Hassan**, a second-semester Software Engineering student with a growing passion for clean code, logic building, and real-world applications using **C++** and **Object-Oriented Programming**.
+Hey there! I'm **Syeda Khadija Hassan**, a third-semester Software Engineering student with a growing passion for clean code, logic building, and real-world applications using **C++** and **Object-Oriented Programming**.
 
 ---
 
