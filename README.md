@@ -1,41 +1,71 @@
-# 👩‍💻 Syeda Khadija | SE Student
+# 👋 Hi, I'm Syeda Khadija Hassan
 
-Hey there! I'm **Syeda Khadija Hassan**, a second-semester Software Engineering student with a growing passion for clean code, logic building, and real-world applications using **C++** and **Object-Oriented Programming**.
-
----
-
-### 🚀 About Me
-- 🎓 Currently studying BSSE – 3rd Semester  
-- 💡 Exploring C++, Data Structures, and Software Design Principles  
-- ⚡ Known for building beginner-friendly, interactive programs  
-- 🌱 Actively learning HTML, CSS & Git for web and version control
+**Software Engineering Student** | Passionate about C++ & OOP | Building Foundations in Web Dev
 
 ---
 
-### 🧰 Tech Stack
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassankhadija06&show_icons=true&theme=radical&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hassankhadija06&layout=compact&theme=radical)
 
 ---
 
-### 📂 Featured Repositories
-📌 [**Semester-02-Labs**](https://github.com/hassankhadija06/Semester-02-Labs)  
-> 💻 A complete collection of C++ lab tasks from 2nd semester — covering constructors, memory management, validation, and class design.
+## 🛠️ Tech Stack
 
-📌 [**Open-Ended Lab (Semester 01)**](https://github.com/hassankhadija06/open-ended-lab-sem1)  
-> 🚀 A creative programming project built to showcase understanding of basic logic, structure, and syntax during the first semester.
+### **Languages & Core**
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### **Tools & Platforms**
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 📫 Let's Connect!
-- 📧 **Email:** hassankhadija06@gmail.com  
-- 🌐 **GitHub:** [github.com/hassankhadija06](https://github.com/hassankhadija06)
+## 🎓 Featured Projects
+
+### **[Semester-02-Labs](https://github.com/hassankhadija06/Semester-02-Labs)**
+> Complete C++ lab tasks demonstrating OOP principles
+- **Concepts:** Classes, Inheritance, Polymorphism, Encapsulation
+- **Features:** Memory management, Input validation, Clean architecture
+- **Tech:** C++
+
+### **[Open-Ended Lab (Semester 01)](https://github.com/hassankhadija06/Open-Ended-Lab)**
+> First-semester creative programming project
+- **Focus:** Logic building and structured programming
+- **Approach:** Interactive, beginner-friendly applications
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hassankhadija06&show_icons=true&theme=default)
 
-> *"Striving for excellence in every line of code I write."* ✨
+## 📈 Contribution Activity
+
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=hassankhadija06&theme=radical)
+
+**Current Focus:** Building strong foundations in Data Structures, Algorithms, and Software Design Principles while expanding into full-stack development.
+
+---
+
+## 🎯 Currently Learning
+- Advanced C++ concepts and Design Patterns
+- JavaScript for web interactivity
+- Database fundamentals (SQL)
+- Git workflows & collaborative development
+
+---
+
+## 📫 Let's Connect
+
+[![Email](https://img.shields.io/badge/Email-hassankhadija06%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:hassankhadija06@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-hassankhadija06-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hassankhadija06)
+
+📍 **Location:** Muzaffarabad, Azad Jammu & Kashmir  
+🎓 **Education:** BSSE – 3rd Semester  
+⏰ **Timezone:** UTC +05:00
+
+---
+
+> *"Striving for excellence in every line of code I write. An ambitious Software Engineering student exploring new horizons in technology."*
