@@ -1,15 +1,17 @@
 # 👩‍💻 Syeda Khadija | SE Student
 
-Hey there! I'm **Syeda Khadija Hassan**, a third-semester Software Engineering student with a growing passion for clean code, logic building, and real-world applications using **C++** and **Object-Oriented Programming**.
+Hey there! I'm **Syeda Khadija Hassan**, a third-semester Software Engineering student diving deeper into system design, algorithms, and full-stack development. I enjoy creating practical applications and continuously refining my approach to problem-solving through clean, maintainable code.
 
 ---
 
 ### 🚀 About Me
-- 🎓 Currently studying BSSE – 3rd Semester  
-- 💡 Exploring C++, Data Structures, and Software Design Principles  
-- ⚡ Known for building beginner-friendly, interactive programs  
-- 🌱 Actively learning HTML, CSS & Git for web and version control
+🎓 BSSE – 3rd Semester at University of Azad Jammu & Kashmir
 
+💡 Currently exploring Data Structures, Algorithms, OOP Design Patterns, and Web Development
+
+⚡ Building interactive C++ applications and beginner-friendly web projects
+
+🌱 Learning JavaScript, Database Systems, and Software Engineering Principles
 ---
 
 ### 🧰 Tech Stack
