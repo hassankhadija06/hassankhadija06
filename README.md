@@ -1,6 +1,6 @@
 <!-- Header Banner with Animated Gradient and Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Syeda%20Khadija%20Hassan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Aspiring%20ML%20Engineer&descSize=19&descAlignY=60" alt="Syeda Khadija Hassan Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Syeda%20Khadija%20Hassan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Niche%20Unresolved&descSize=19&descAlignY=60" alt="Syeda Khadija Hassan Banner" width="100%"/>
 </p>
 
 <!-- Dynamic Typing Animation -->
