@@ -1,12 +1,22 @@
-<!-- Header Banner with Animated Gradient and Wave -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=220&section=header&text=Syeda%20Khadija%20Hassan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Niche%20Unresolved&descSize=19&descAlignY=60" alt="Syeda Khadija Hassan Banner" width="100%"/>
-</p>
-
-<!-- Dynamic Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2575FC&center=true&vCenter=true&width=580&lines=Hey+there!+%F0%9F%91%8B+Welcome+to+my+profile;BS+Software+Engineering+%C2%B7+5th+Semester;Exploring+Machine+Learning+%26+Data+Analytics;Vectorized+Computing+with+NumPy+%26+Pandas;Building+Clean%2C+Scalable+%26+Robust+Code" alt="Typing Animation" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="68%" valign="middle">
+      <h1>Syeda Khadija Hassan</h1>
+      <h3>Software Engineering Student · Machine Learning · Digital Image Processing</h3>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=2575FC&width=520&lines=Welcome+to+my+digital+workshop;BS+Software+Engineering+%C2%B7+5th+Semester;Exploring+Machine+Learning+%26+Data+Analytics;Building+Clean+and+Practical+Projects" alt="Typing Animation"/>
+      <br/><br/>
+      <a href="https://github.com/hassankhadija06">
+        <img src="https://img.shields.io/badge/Follow%20on-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      </a>
+      <a href="mailto:hassankhadija06@gmail.com">
+        <img src="https://img.shields.io/badge/Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+    </td>
+    <td width="32%" align="center" valign="middle">
+      <img src="./output/bonsai.svg" alt="My GitHub activity as a growing pixel-art bonsai" width="300"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -108,14 +118,6 @@
     </td>
   </tr>
 </table>
-
----
-
-### 🌳 My Growing Git Bonsai
-
-<p align="center">
-  <img src="./output/bonsai.svg" alt="My GitHub history growing as a pixel-art bonsai" width="100%"/>
-</p>
 
 ---
 
