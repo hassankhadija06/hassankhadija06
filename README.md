@@ -4,8 +4,8 @@
   <tr>
     <td width="68%" valign="middle">
       <h1>Syeda Khadija Hassan</h1>
-      <h3>Software Engineering Student · Python · Machine Learning · Digital Image Processing</h3>
-      <p>Building practical projects while exploring data, image processing, databases, and software systems.</p>
+      <h3>Software Engineering Student · Python · Machine Learning</h3>
+      <p>Building practical projects while exploring data and software systems.</p>
       <a href="https://github.com/hassankhadija06">
         <img src="https://img.shields.io/badge/FOLLOW-181717?style=flat-square&logo=github&logoColor=white" alt="Follow on GitHub"/>
       </a>
