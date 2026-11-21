@@ -1,87 +1,83 @@
 <div align="center">
 
-<table border="0" width="100%">
-  <tr>
-    <td width="68%" valign="middle">
-      <h1>Syeda Khadija Hassan</h1>
-      <h3>Software Engineering Student · Python · Machine Learning</h3>
-      <p>Building practical projects while exploring data and software systems.</p>
-      <a href="https://github.com/hassankhadija06">
-        <img src="https://img.shields.io/badge/FOLLOW-181717?style=flat-square&logo=github&logoColor=white" alt="Follow on GitHub"/>
-      </a>
-      <a href="mailto:hassankhadija06@gmail.com">
-        <img src="https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
-      </a>
-    </td>
-    <td width="32%" align="center" valign="middle">
-      <img src="./output/bonsai.svg" alt="My growing GitHub bonsai" width="260"/>
-    </td>
-  </tr>
-</table>
+# SYEDA KHADIJA HASSAN
+
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&color=7EE787&center=true&vCenter=true&width=600&lines=software+engineering+student;python+%2B+machine+learning;building+things+that+actually+run" alt="typing animation"/>
+</a>
+
+<sub>BS Software Engineering, UAJK · Muzaffarabad, AJK</sub>
+
+<br/><br/>
+
+<img src="./output/bonsai.svg" alt="My growing GitHub bonsai" width="280"/>
 
 </div>
 
-## About
+---
 
-I am a fifth-semester BS Software Engineering student at the University of Azad Jammu & Kashmir. My coursework and personal practice focus on turning core programming concepts into working projects.
+<p align="center">
+  <img src="./output/terminal.svg" alt="about me terminal" width="860"/>
+</p>
 
-**Current interests:** Python, NumPy, Pandas, machine learning, digital image processing, C++, databases, and computer networks.
-
-## Technology
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=sqlite&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-</div>
-
-## Featured Work
+---
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/hassankhadija06/ML-Lab-2024SE09">Machine Learning Lab</a></h3>
-      Python, NumPy, Pandas, Jupyter, data cleaning, exploratory analysis, and simple linear regression.
-      <br/><br/>
-      <code>Python</code> <code>NumPy</code> <code>Pandas</code> <code>scikit-learn</code>
+
+### 🧠 Machine Learning Lab
+Data cleaning, exploratory analysis and linear regression in Jupyter. Real datasets, real messy columns.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+[→ view repo](https://github.com/hassankhadija06/ML-Lab-2024SE09)
+
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/hassankhadija06/DIP-CS-3112">Digital Image Processing</a></h3>
-      Image enhancement, geometric transformations, histograms, thresholding, convolution, and noise filtering.
-      <br/><br/>
-      <code>Python</code> <code>OpenCV</code> <code>NumPy</code> <code>Jupyter</code>
+
+### 🖼️ Digital Image Processing
+Histograms, thresholding, convolution and noise filtering. Pixels, but make it math.
+
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+[→ view repo](https://github.com/hassankhadija06/DIP-CS-3112)
+
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/hassankhadija06/Semester-01-Labs/blob/main/OpenEnded_Lab.cpp">Restaurant Ordering System</a></h3>
-      Semester 1 C++ open-ended lab with menu selection, deals, customizations, discounts, payments, validation, and invoices.
-      <br/><br/>
-      <code>C++</code> <code>Console App</code> <code>Input Validation</code>
+
+### 🍜 Restaurant Ordering System
+A C++ console app with menus, deals, discounts, payments and invoices. It refuses bad input, so you can't break it easily.
+
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+
+[→ view file](https://github.com/hassankhadija06/Semester-01-Labs/blob/main/OpenEnded_Lab.cpp)
+
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/hassankhadija06/hassankhadija06.github.io">Personal Website</a></h3>
-      A personal webpage built to practice HTML, CSS, and JavaScript.
-      <br/><br/>
-      <code>HTML</code> <code>CSS</code> <code>JavaScript</code>
+
+### 🌐 This Website
+Hand-written HTML, CSS and JavaScript, built to learn the basics properly.
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[→ view site](https://github.com/hassankhadija06/hassankhadija06.github.io)
+
     </td>
   </tr>
 </table>
 
 <details>
-<summary>More coursework</summary>
+<summary><b>more coursework →</b></summary>
+
+<br/>
 
 - [Database-Systems-CS-2204](https://github.com/hassankhadija06/Database-Systems-CS-2204)
 - [Computer-Networks](https://github.com/hassankhadija06/Computer-Networks)
@@ -91,16 +87,49 @@ I am a fifth-semester BS Software Engineering student at the University of Azad 
 
 </details>
 
-## GitHub Activity
+---
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=D2A8FF&center=true&vCenter=true&width=500&lines=%2F%2F+stack" alt="stack"/>
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+</p>
+
+---
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=FFA657&center=true&vCenter=true&width=500&lines=%2F%2F+stats" alt="stats"/>
+</div>
+
+<br/>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hassankhadija06&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassankhadija06&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165" alt="Top languages"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hassankhadija06&theme=dark&hide_border=true" alt="GitHub streak"/>
+</p>
+
+---
+
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-hassankhadija06-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hassankhadija06)
-[![Email](https://img.shields.io/badge/Email-hassankhadija06%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hassankhadija06@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=800&color=7EE787&center=true&vCenter=true&width=500&lines=say+hi+%E2%86%92+hassankhadija06%40gmail.com" alt="contact"/>
+
+[![Email](https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hassankhadija06@gmail.com) [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hassankhadija06)
+
+<sub>made by hand, one commit at a time.</sub>
 
 </div>
