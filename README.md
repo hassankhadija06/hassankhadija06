@@ -93,24 +93,6 @@ I am a fifth-semester BS Software Engineering student at the University of Azad 
 
 ## GitHub Activity
 
-<div align="center">
-
-```text
-khadija@github:~$ git log --oneline --decorate
-```
-
-```text
-      .-------------------------------.
-      |  SOFTWARE ENGINEERING LABS    |
-      |  PYTHON  +  C++  +  ML  +  DIP|
-      '---------------.---------------'
-                      |
-                      v
-      commits -->  projects -->  growth
-```
-
-</div>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hassankhadija06&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassankhadija06&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165" alt="Top languages"/>
