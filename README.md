@@ -114,7 +114,7 @@
 ### 🌳 My Growing Git Bonsai
 
 <p align="center">
-  <img src="./bonsai.svg" alt="My GitHub history growing as a pixel-art bonsai" width="100%"/>
+  <img src="./output/bonsai.svg" alt="My GitHub history growing as a pixel-art bonsai" width="100%"/>
 </p>
 
 ---
