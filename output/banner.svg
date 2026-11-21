@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
-  <title id="title">Growing ideas, one commit at a time</title>
+  <title id="title">Progress over perfection</title>
   <desc id="desc">A colorful, garden-inspired software banner in forest green, sage, peach, and warm cream.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -44,8 +44,8 @@
     <path d="M310 66l3 8 8 3-8 3-3 8-3-8-8-3 8-3z"/>
     <path d="M775 126l2 6 6 2-6 2-2 6-2-6-6-2 6-2z"/>
   </g>
-  <text x="294" y="128" fill="#f8e6c8" font-family="Georgia, 'Times New Roman', serif" font-size="43" font-weight="700" letter-spacing="1">GROWING IDEAS,</text>
-  <text x="294" y="181" fill="#f8e6c8" font-family="Georgia, 'Times New Roman', serif" font-size="43" font-weight="700" letter-spacing="1">ONE COMMIT AT A TIME.</text>
+  <text x="294" y="128" fill="#f8e6c8" font-family="Georgia, 'Times New Roman', serif" font-size="43" font-weight="700" letter-spacing="1">PROGRESS OVER</text>
+  <text x="294" y="181" fill="#f8e6c8" font-family="Georgia, 'Times New Roman', serif" font-size="43" font-weight="700" letter-spacing="1">PERFECTION.</text>
   <rect x="297" y="204" width="56" height="4" rx="2" fill="#f2a477"/>
   <text x="368" y="213" fill="#c6d9bb" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" letter-spacing="2">CODE  ·  LEARN  ·  GROW</text>
 </svg>
