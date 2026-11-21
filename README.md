@@ -131,6 +131,6 @@
 
 <br/><br/>
 
-<sub><i>progress over perfection.</i></sub>
+<sub><i>driven by the fear of being mediocre</i></sub>
 
 </div>
