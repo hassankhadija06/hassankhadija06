@@ -16,66 +16,58 @@
 
 ---
 
+I'm a fifth-semester software engineering student at UAJK. I turn course concepts into projects that actually run, mostly in Python, with some C++ and far too many notebooks.
+
 <p align="center">
-  <img src="./output/terminal.svg" alt="about me terminal" width="860"/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,sql,html,css,git,jupyter,numpy,pandas,opencv" alt="skills"/>
 </p>
+
+Currently exploring Machine Learning and Python fundamentals.
 
 ---
 
 <table>
   <tr>
     <td width="50%" valign="top">
-
-### 🧠 Machine Learning Lab
-Data cleaning, exploratory analysis and linear regression in Jupyter. Real datasets, real messy columns.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-
-[→ view repo](https://github.com/hassankhadija06/ML-Lab-2024SE09)
-
+      <h3>Machine Learning Lab</h3>
+      Data cleaning, exploratory analysis and linear regression in Jupyter.<br/><br/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+      <br/><br/>
+      <a href="https://github.com/hassankhadija06/ML-Lab-2024SE09">View repo</a>
     </td>
     <td width="50%" valign="top">
-
-### 🖼️ Digital Image Processing
-Histograms, thresholding, convolution and noise filtering. Pixels, but make it math.
-
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-
-[→ view repo](https://github.com/hassankhadija06/DIP-CS-3112)
-
+      <h3>Digital Image Processing</h3>
+      Histograms, thresholding, convolution and noise filtering.<br/><br/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white"/>
+      <br/><br/>
+      <a href="https://github.com/hassankhadija06/DIP-CS-3112">View repo</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-
-### 🍜 Restaurant Ordering System
-A C++ console app with menus, deals, discounts, payments and invoices. It refuses bad input, so you can't break it easily.
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-[→ view file](https://github.com/hassankhadija06/Semester-01-Labs/blob/main/OpenEnded_Lab.cpp)
-
+      <h3>Restaurant Ordering System</h3>
+      A C++ console app with menus, deals, discounts, payments and invoices, with input validation.<br/><br/>
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+      <br/><br/>
+      <a href="https://github.com/hassankhadija06/Semester-01-Labs/blob/main/OpenEnded_Lab.cpp">View file</a>
     </td>
     <td width="50%" valign="top">
-
-### 🌐 This Website
-Hand-written HTML, CSS and JavaScript, built to learn the basics properly.
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-[→ view site](https://github.com/hassankhadija06/hassankhadija06.github.io)
-
+      <h3>Personal Website</h3>
+      Hand-written HTML, CSS and JavaScript, built to learn the basics properly.<br/><br/>
+      <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+      <br/><br/>
+      <a href="https://github.com/hassankhadija06/hassankhadija06.github.io">View site</a>
     </td>
   </tr>
 </table>
 
 <details>
-<summary><b>more coursework →</b></summary>
+<summary><b>More coursework</b></summary>
 
 <br/>
 
@@ -90,7 +82,7 @@ Hand-written HTML, CSS and JavaScript, built to learn the basics properly.
 ---
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=D2A8FF&center=true&vCenter=true&width=500&lines=%2F%2F+stack" alt="stack"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=7EE787&center=true&vCenter=true&width=500&lines=%2F%2F+stack" alt="stack"/>
 </div>
 
 <p align="center">
@@ -111,8 +103,6 @@ Hand-written HTML, CSS and JavaScript, built to learn the basics properly.
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=800&color=FFA657&center=true&vCenter=true&width=500&lines=%2F%2F+stats" alt="stats"/>
 </div>
 
-<br/>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hassankhadija06&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165" alt="GitHub statistics"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hassankhadija06&layout=compact&theme=github_dark&hide_border=true&langs_count=6" height="165" alt="Top languages"/>
@@ -130,6 +120,6 @@ Hand-written HTML, CSS and JavaScript, built to learn the basics properly.
 
 [![Email](https://img.shields.io/badge/EMAIL-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:hassankhadija06@gmail.com) [![GitHub](https://img.shields.io/badge/GITHUB-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hassankhadija06)
 
-<sub>made by hand, one commit at a time.</sub>
+<sub>driven by the fear of being mediocre.</sub>
 
 </div>
