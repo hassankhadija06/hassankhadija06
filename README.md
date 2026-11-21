@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./output/banner.svg" alt="Growing ideas, one commit at a time — code, learn, grow" width="100%"/>
+
 # SYEDA KHADIJA HASSAN
 
 <a href="https://github.com/DenverCoder1/readme-typing-svg">
