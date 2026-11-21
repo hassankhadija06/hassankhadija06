@@ -107,20 +107,15 @@
       </p>
     </td>
   </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌳 <a href="https://github.com/egorthinks/git-bonsai">git-bonsai</a></h3>
-      <p><b>GitHub History Bonsai Visualizer</b></p>
-      <p>Grow a unique pixel-art bonsai from GitHub contribution history.</p>
-      <p>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
-        <img src="https://img.shields.io/badge/Pixel_Art-228B22?style=flat-square" alt="Pixel Art"/>
-      </p>
-      <p><a href="https://www.egorthinks.com/bonsai">Visit the project</a></p>
-    </td>
-  </tr>
 </table>
+
+---
+
+### 🌳 My Growing Git Bonsai
+
+<p align="center">
+  <img src="./bonsai.svg" alt="My GitHub history growing as a pixel-art bonsai" width="100%"/>
+</p>
 
 ---
 
