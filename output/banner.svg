@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-labelledby="title desc">
+  <title id="title">Progress over perfection</title>
+  <desc id="desc">A colorful, garden-inspired software banner in forest green, sage, peach, and warm cream.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#173f35"/>
+      <stop offset="0.58" stop-color="#245448"/>
+      <stop offset="1" stop-color="#382f48"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0" y1="0" x2="1" y2="1">
+      <stop stop-color="#ffd69b"/>
+      <stop offset="1" stop-color="#f2a477"/>
+    </linearGradient>
+    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
+      <circle cx="2" cy="2" r="1.3" fill="#d5e8c8" opacity=".14"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="280" rx="24" fill="url(#bg)"/>
+  <rect width="1200" height="280" rx="24" fill="url(#dots)"/>
+  <circle cx="1030" cy="116" r="76" fill="url(#sun)" opacity=".96"/>
+  <path d="M0 228 C180 198 300 255 480 224 C650 194 790 251 960 222 C1080 203 1140 218 1200 201 V280 H0Z" fill="#122f2b" opacity=".72"/>
+  <path d="M0 247 C180 225 300 270 500 242 C680 217 820 269 1010 239 C1100 225 1150 236 1200 224 V280 H0Z" fill="#102823" opacity=".55"/>
+  <g fill="none" stroke="#a8d5a2" stroke-width="3" opacity=".68">
+    <path d="M82 220 C93 176 122 150 151 126 C176 105 188 83 187 58"/>
+    <path d="M129 159 C103 152 88 135 82 115 C106 112 127 124 138 143"/>
+    <path d="M151 127 C150 105 162 89 181 80 C190 100 180 117 163 132"/>
+    <path d="M103 191 C81 187 65 171 61 153 C84 153 101 164 112 181"/>
+    <path d="M182 91 C201 81 222 85 235 99 C218 113 198 111 183 101"/>
+  </g>
+  <g fill="#a8d5a2" opacity=".92">
+    <ellipse cx="109" cy="134" rx="7" ry="17" transform="rotate(-42 109 134)"/>
+    <ellipse cx="169" cy="101" rx="7" ry="16" transform="rotate(28 169 101)"/>
+    <ellipse cx="78" cy="167" rx="7" ry="16" transform="rotate(-48 78 167)"/>
+    <ellipse cx="214" cy="97" rx="7" ry="17" transform="rotate(63 214 97)"/>
+  </g>
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="18" font-weight="700" fill="#f8e6c8" opacity=".72">
+    <text x="891" y="72">&lt;idea /&gt;</text>
+    <text x="1055" y="207" fill="#f2a477">{ grow }</text>
+  </g>
+  <g fill="#f2a477">
+    <circle cx="271" cy="75" r="4"/><circle cx="832" cy="190" r="4"/><circle cx="747" cy="63" r="3"/>
+  </g>
+  <g fill="#f8e6c8" opacity=".85">
+    <path d="M310 66l3 8 8 3-8 3-3 8-3-8-8-3 8-3z"/>
+    <path d="M775 126l2 6 6 2-6 2-2 6-2-6-6-2 6-2z"/>
+  </g>
+  <text x="294" y="128" fill="#f8e6c8" font-family="Georgia, 'Times New Roman', serif" font-size="43" font-weight="700" letter-spacing="1">PROGRESS OVER</text>
+  <text x="294" y="181" fill="#f8e6c8" font-family="Georgia, 'Times New Roman', serif" font-size="43" font-weight="700" letter-spacing="1">PERFECTION.</text>
+  <rect x="297" y="204" width="56" height="4" rx="2" fill="#f2a477"/>
+  <text x="368" y="213" fill="#c6d9bb" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="16" letter-spacing="2">CODE  ·  LEARN  ·  GROW</text>
+</svg>
