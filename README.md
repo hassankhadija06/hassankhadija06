@@ -1,4 +1,4 @@
-<img src="./output/banner.svg" alt="Terminal-inspired ASCII banner: build, learn, grow" width="100%"/>
+<img src="./output/ascii-terminal-banner.svg" alt="Terminal-inspired ASCII banner: build, learn, grow" width="100%"/>
 
 <div align="center">
 
